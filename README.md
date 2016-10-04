@@ -1,5 +1,7 @@
 # Rubik's Cube
+
 Course: 3-D Graphics
+
 Date: Fall 2014 (4th semester)
 
 Detailed instructions are in the comments.
